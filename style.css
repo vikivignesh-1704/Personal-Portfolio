@@ -155,16 +155,16 @@ h4 {
     border-radius: 12px;
 }
 
-.css {
-    width: 70%;
+.python {
+    width: 80%;
     height: .5rem;
     background-color: #00a0e4;
     margin: 1rem 0;
     border-radius: 12px;
 }
 
-.js {
-    width: 50%;
+.css {
+    width: 70%;
     height: .5rem;
     background-color: yellow;
     margin: 1rem 0;
@@ -179,8 +179,8 @@ h4 {
     border-radius: 12px;
 }
 
-.python {
-    width: 80%;
+.js {
+    width: 50%;
     height: .5rem;
     background-color: #61dafb;
     margin: 1rem 0;
@@ -570,5 +570,6 @@ ul li a:hover {
     background-color: #4db5ff;
 
 }
+
 
 
