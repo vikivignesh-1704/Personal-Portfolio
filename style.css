@@ -148,7 +148,7 @@ h4 {
 }
 
 .html {
-    width: 90%;
+    width: 80%;
     height: .5rem;
     background-color: #e54c21;
     margin: 1rem 0;
@@ -156,7 +156,7 @@ h4 {
 }
 
 .css {
-    width: 80%;
+    width: 70%;
     height: .5rem;
     background-color: #00a0e4;
     margin: 1rem 0;
@@ -164,7 +164,7 @@ h4 {
 }
 
 .js {
-    width: 65%;
+    width: 50%;
     height: .5rem;
     background-color: yellow;
     margin: 1rem 0;
@@ -172,7 +172,7 @@ h4 {
 }
 
 .bootstrap {
-    width: 50%;
+    width: 70%;
     height: .5rem;
     background-color: #7952b3;
     margin: 1rem 0;
@@ -180,7 +180,7 @@ h4 {
 }
 
 .reactjs {
-    width: 30%;
+    width: 80%;
     height: .5rem;
     background-color: #61dafb;
     margin: 1rem 0;
@@ -568,4 +568,5 @@ ul li a:hover {
 .live {
     color: #1f1f38;
     background-color: #4db5ff;
+
 }
